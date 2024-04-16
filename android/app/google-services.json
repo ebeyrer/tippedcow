@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696821337583",
+    "project_id": "tippedcow-abc14",
+    "storage_bucket": "tippedcow-abc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696821337583:android:9769b52c3fa0bdf5a6fa1a",
+        "android_client_info": {
+          "package_name": "com.example.tipped_cow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1o_xV0Gg8t8wdVFDNVFBlmY5_STN_jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
